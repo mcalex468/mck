@@ -1,0 +1,138 @@
+[
+    {
+        "slug": "camada-viuda-negra-2025",
+        "name": "Camada Viuda Negra (Mayo 2025)",
+        "date": "2025-05-10",
+        "cover": "/fotos/bela.png",
+        "parents": {
+            "male": "Alpha",
+            "female": "Alaska"
+        },
+        "photos": [
+            "/fotos/bela1.png",
+            "/fotos/bela2.png",
+            "/fotos/belabebe5.png",
+            "/fotos/belabebe3.png",
+            "/fotos/belabebe1.png",
+            "/fotos/belareciennacida1.png",
+            "/fotos/belabebe2.png"
+        ],
+        "generalphotos": [
+            "/fotos/bela.png",
+            "/fotos/bela1.png",
+            "/fotos/bela2.png",
+            "/fotos/belabebe.png",
+            "/fotos/belabebe1.png",
+            "/fotos/belabebe2.png",
+            "/fotos/belabebe3.png",
+            "/fotos/belabebe4.png",
+            "/fotos/belabebe5.png",
+            "/fotos/belabebe6.png",
+            "/fotos/belabebe7.png",
+            "/fotos/belareciennacida.png",
+            "/fotos/belareciennacida1.png",
+            "/fotos/belareciennacida2.png",
+            "/fotos/belareciennacida3.png",
+            "/fotos/belareciennacida4.png",
+            "/fotos/belareciennacida5.png",
+            "/fotos/belabebe2.png"
+        ],
+        "kittens": [
+            {
+                "name": "Bela",
+                "sex": "F",
+                "color": "Tricolor",
+                "status": "no disponible",
+                "photo": "/fotos/belabebe.png"
+            }
+        ]
+    },
+    {
+        "slug": "camada-cuatro-fantasticos-2025",
+        "name": "Camada Los 4 Fantásticos (Agosto 2025)",
+        "date": "2025-08-29",
+        "cover": "/fotos/camadareciennacida.png",
+        "parents": {
+            "male": "Alpha",
+            "female": "Alaska"
+        },
+        "generalphotos": [
+            "/fotos/camadabebe.png",
+            "/fotos/camadabebe1.png",
+            "/fotos/camadabebe2.png",
+            "/fotos/camadabebe3.png",
+            "/fotos/camadabebe4.png",
+            "/fotos/camadabebe5.png",
+            "/fotos/camadareciennacida.png",
+            "/fotos/naranjito.png",
+            "/fotos/naranjito1.png",
+            "/fotos/naranjito2.png",
+            "/fotos/naranjito3.png",
+            "/fotos/naranjito4.png",
+            "/fotos/naranjito5.png",
+            "/fotos/naranjito6.png",
+            "/fotos/naranjito7.png",
+            "/fotos/naranjito8.png",
+            "/fotos/naranjito9.png",
+            "/fotos/naranjito10.png",
+            "/fotos/recienNacidos.png",
+            "/fotos/tricolor.png",
+            "/fotos/tricolor1.png",
+            "/fotos/tricolor2.png",
+            "/fotos/tricolor3.png",
+            "/fotos/tricolor4.png",
+            "/fotos/blackhumo.png",
+            "/fotos/blackhumo1.png",
+            "/fotos/blackhumo2.png",
+            "/fotos/blackhumo3.png",
+            "/fotos/blackhumo4.png",
+            "/fotos/blackhumo5.png",
+            "/fotos/blackhumo6.png",
+            "/fotos/blackhumo7.png",
+            "/fotos/blackhumo8.png",
+            "/fotos/blackhumo9.png",
+            "/fotos/blacksmoke.png",
+            "/fotos/blacksmoke1.png",
+            "/fotos/blacksmoke1.png",
+            "/fotos/blacksmoke2.png",
+            "/fotos/blacksmoke3.png",
+            "/fotos/blacksmoke4.png"
+        ],
+        "photos": [
+            "/fotos/camadabebe.png",
+            "/fotos/camadabebe1.png",
+            "/fotos/camadabebe2.png",
+            "/fotos/camadabebe3.png"
+        ],
+        "kittens": [
+            {
+                "name": "Naranjito",
+                "sex": "M",
+                "color": "Naranja",
+                "status": "no disponible",
+                "photo": "/fotos/naranjito.png"
+            },
+            {
+                "name": "Estrella",
+                "sex": "F",
+                "color": "Tricolor",
+                "status": "no disponible",
+                "photo": "/fotos/tricolor.png"
+            },
+            {
+                "name": "Dormilon",
+                "sex": "M",
+                "color": "Black Smoke",
+                "status": "disponible",
+                "photo": "/fotos/blackhumo.png"
+            },
+            {
+                "name": "Saltarin",
+                "sex": "M",
+                "color": "Black Smoke",
+                "status": "no disponible",
+                "photo": "/fotos/blacksmoke.png"
+            }
+        ]
+    }
+]
